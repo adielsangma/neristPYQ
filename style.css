@@ -110,6 +110,22 @@ nav h1 {
   background-color: #f44336;
   transition: 1s;
 }
+footer {
+  text-align: center;
+  border: 1px dotted rgb(68, 68, 68);
+  background: #f44336;
+}
+footer h4 {
+  color: #fff;
+  font-style: normal;
+}
+footer p {
+  color: #fff;
+}
+footer span {
+  font-style: italic;
+  font-weight: 400;
+}
 
 /* ------------------- Department Section ------------------- */
 #Search {
@@ -304,3 +320,4 @@ p {
   text-align: center;
   margin: 0;
 }
+
